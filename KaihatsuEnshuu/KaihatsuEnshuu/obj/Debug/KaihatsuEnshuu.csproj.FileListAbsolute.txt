@@ -1,0 +1,13 @@
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\bin\Debug\KaihatsuEnshuu.exe.config
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\bin\Debug\KaihatsuEnshuu.exe
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\bin\Debug\KaihatsuEnshuu.pdb
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.csprojAssemblyReference.cache
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.Properties.Resources.resources
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.csproj.GenerateResource.cache
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.csproj.CoreCompileInputs.cache
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.exe
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.pdb
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.stockForm.resources
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.MainForm.resources
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.ProductForm.resources
+C:\Users\B8328\source\repos\KaihatsuEnshuu\KaihatsuEnshuu\obj\Debug\KaihatsuEnshuu.LoginForm.resources
